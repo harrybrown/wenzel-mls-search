@@ -1,0 +1,10 @@
+{
+    "name": "t-rex/rets",
+    "license": "n",
+    "require": {
+        "troydavisson/phrets": "^2.2",
+        "monolog/monolog": ">=1.1.0"
+    },
+    "minimum-stability" : "stable",
+    "prefer-stable" : true
+}
